@@ -1,0 +1,15 @@
+{
+  "name": "DmxBrowser",
+  "version": "0.1.0",
+  "description": "Dmx browser",
+  "main": "server.js",
+  "scripts": {
+    "build": "",
+    "start": "node server.js"
+  },
+  "author": "Pierre Lemmel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
